@@ -4,3 +4,7 @@ link 2 : https://www.dataversity.net/how-to-overcome-data-order-issues-in-apache
 
 Partitions, Consumer Group and Offset Management
 https://medium.com/codex/apache-kafka-series-part-2-partitions-consumer-group-and-offset-management-fbb08839edfa
+
+producer-tuning Kafka
+https://strimzi.io/blog/2020/10/15/producer-tuning/
+
