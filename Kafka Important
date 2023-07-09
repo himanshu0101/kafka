@@ -17,5 +17,5 @@ Assign and Seek in Kafka Consumer
 
 ACK and ISR in Kafka Producer
 
-
+Retry and inflight connection to maintain order in Kafka
 
