@@ -9,3 +9,13 @@ producer-tuning Kafka
 https://strimzi.io/blog/2020/10/15/producer-tuning/
 https://stackoverflow.com/questions/45600395/improving-performance-of-kafka-producer
 
+Tune Performance of Kafka Consumer
+
+
+Assign and Seek in Kafka Consumer
+
+
+ACK and ISR in Kafka Producer
+
+
+
