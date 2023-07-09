@@ -7,4 +7,5 @@ https://medium.com/codex/apache-kafka-series-part-2-partitions-consumer-group-an
 
 producer-tuning Kafka
 https://strimzi.io/blog/2020/10/15/producer-tuning/
+https://stackoverflow.com/questions/45600395/improving-performance-of-kafka-producer
 
